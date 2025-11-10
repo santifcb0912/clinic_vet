@@ -1,0 +1,12 @@
+com\santifcb0912\petclinic\repository\IPetOwnerRepository.class
+com\santifcb0912\petclinic\controller\PetController.class
+com\santifcb0912\petclinic\controller\PetOwnerController.class
+com\santifcb0912\petclinic\repository\IPetRepository.class
+com\santifcb0912\petclinic\model\PetOwner.class
+com\santifcb0912\petclinic\dto\PetAndOwnerDTO.class
+com\santifcb0912\petclinic\model\Pet.class
+com\santifcb0912\petclinic\PetclinicApplication.class
+com\santifcb0912\petclinic\service\PetOwnerService.class
+com\santifcb0912\petclinic\service\PetService.class
+com\santifcb0912\petclinic\service\IPetService.class
+com\santifcb0912\petclinic\service\IPetOwnerService.class
